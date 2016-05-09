@@ -41,7 +41,8 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/akismet": "*",
     "wpackagist-plugin/sucuri-scanner": "*",
-    "wpackagist-plugin/simple-custom-css": "*"
+    "wpackagist-plugin/simple-custom-css": "*",
+    "wpackagist-plugin/wp-force-ssl": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
