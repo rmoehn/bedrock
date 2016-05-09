@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "62f1e15100d5a4eadedebc84cc61cab5",
-    "content-hash": "d973061578e61ae8a7c4d4c28e2bc70c",
+    "hash": "6aa2c6154d9b6a5c357b9ccb5af8f5d5",
+    "content-hash": "bfffddc8243948251cf7c847e3b01dfc",
     "packages": [
         {
             "name": "composer/installers",
@@ -352,7 +352,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/akismet.3.1.10.zip",
-                "reference": "tags/3.1.10",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -360,6 +360,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/akismet/"
+        },
+        {
+            "name": "wpackagist-plugin/backupwordpress",
+            "version": "3.6.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/backupwordpress/",
+                "reference": "tags/3.6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/backupwordpress.3.6.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/backupwordpress/"
         },
         {
             "name": "wpackagist-plugin/simple-custom-css",
@@ -412,7 +432,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-force-ssl.zip",
-                "reference": null,
+                "reference": "trunk",
                 "shasum": null
             },
             "require": {

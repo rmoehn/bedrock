@@ -42,7 +42,8 @@
     "wpackagist-plugin/akismet": "*",
     "wpackagist-plugin/sucuri-scanner": "*",
     "wpackagist-plugin/simple-custom-css": "*",
-    "wpackagist-plugin/wp-force-ssl": "*"
+    "wpackagist-plugin/wp-force-ssl": "*",
+    "wpackagist-plugin/backupwordpress": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
