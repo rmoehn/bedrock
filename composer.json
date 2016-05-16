@@ -38,7 +38,10 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.5.2",
     "oscarotero/env": "^1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "wpackagist-plugin/akismet": "*",
+    "wpackagist-plugin/sucuri-scanner": "*",
+    "wpackagist-plugin/simple-custom-css": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
