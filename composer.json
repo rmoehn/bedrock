@@ -43,7 +43,8 @@
     "wpackagist-plugin/sucuri-scanner": "*",
     "wpackagist-plugin/simple-custom-css": "*",
     "wpackagist-plugin/wp-force-ssl": "*",
-    "wpackagist-plugin/backupwordpress": "*"
+    "wpackagist-plugin/backupwordpress": "*",
+    "wpackagist-plugin/wordpress-gzip-compression": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
