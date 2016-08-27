@@ -50,6 +50,7 @@
     "wpackagist-plugin/wp-force-ssl": "*",
     "wpackagist-plugin/backupwordpress": "*",
     "wpackagist-plugin/wordpress-gzip-compression": "*",
+    "wpackagist-plugin/recipe-hero": "*",
     "wpackagist-theme/hoffman": "*"
   },
   "require-dev": {
