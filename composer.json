@@ -51,6 +51,7 @@
     "wpackagist-plugin/backupwordpress": "*",
     "wpackagist-plugin/wordpress-gzip-compression": "*",
     "wpackagist-plugin/wp-ultimate-recipe": "*",
+    "wpackagist-plugin/jetpack": "*",
     "wpackagist-theme/hoffman": "*"
   },
   "require-dev": {
