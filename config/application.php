@@ -81,3 +81,8 @@ define('DISALLOW_FILE_EDIT', true);
 if (!defined('ABSPATH')) {
     define('ABSPATH', $webroot_dir . '/wp/');
 }
+
+/**
+ * Really custom settings
+ */
+define('JETPACK_DEV_DEBUG', false)
