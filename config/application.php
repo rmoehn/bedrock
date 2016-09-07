@@ -85,4 +85,4 @@ if (!defined('ABSPATH')) {
 /**
  * Really custom settings
  */
-define('JETPACK_DEV_DEBUG', false)
+define('JETPACK_DEV_DEBUG', false);
