@@ -53,6 +53,8 @@
     "wpackagist-plugin/wp-ultimate-recipe": "*",
     "wpackagist-plugin/wp-recipe-maker": "*",
     "wpackagist-plugin/jetpack": "*",
+    "wpackagist-plugin/shariff": "*",
+    "wpackagist-plugin/tag-pages": "*",
     "wpackagist-theme/hoffman": "*"
   },
   "require-dev": {
