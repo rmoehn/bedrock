@@ -55,7 +55,8 @@
     "wpackagist-plugin/jetpack": "*",
     "wpackagist-plugin/shariff": "*",
     "wpackagist-plugin/tag-pages": "*",
-    "wpackagist-theme/hoffman": "*"
+    "wpackagist-theme/hoffman": "*",
+    "wpackagist-theme/sparkling": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
