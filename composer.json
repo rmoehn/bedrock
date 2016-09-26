@@ -56,7 +56,8 @@
     "wpackagist-plugin/shariff": "*",
     "wpackagist-plugin/tag-pages": "*",
     "wpackagist-theme/hoffman": "*",
-    "wpackagist-theme/sparkling": "*"
+    "wpackagist-theme/sparkling": "*",
+    "wpackagist-theme/sanremo": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
