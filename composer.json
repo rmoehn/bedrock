@@ -56,6 +56,10 @@
     "wpackagist-plugin/shariff": "*",
     "wpackagist-plugin/tag-pages": "*",
     "wpackagist-theme/hoffman": "*",
+    "wpackagist-theme/lovecraft": "*",
+    "wpackagist-theme/baskerville": "*",
+    "wpackagist-theme/fukasawa": "*",
+    "wpackagist-theme/wilson": "*",
     "wpackagist-theme/sparkling": "*",
     "wpackagist-theme/sanremo": "*"
   },
